@@ -1,4 +1,4 @@
-# Hola, soy Aarín Guzmán 👋
+# Hola, soy Aarón Guzmán 👋
 
 ## Full Stack Developer
 
