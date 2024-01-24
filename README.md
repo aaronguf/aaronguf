@@ -46,8 +46,10 @@ Si estás interesado en hablar sobre tecnología, proyectos o oportunidades labo
 
 ### Educación y Certificaciones
 
--**Ingeniería mecánica electrica:** Universidad de Guadalajara
 -**Full Stack Developer:** 4Geeks Academy
+
+-**Ingeniería mecánica electrica:** Universidad de Guadalajara
+
 ---
 
 Gracias por visitar mi perfil. ¡Espero tener noticias tuyas pronto!
