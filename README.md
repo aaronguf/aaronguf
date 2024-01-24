@@ -33,10 +33,10 @@ Si estás interesado en hablar sobre tecnología, proyectos o oportunidades labo
 
 ### Un Poco Más Sobre Mí
 
-Soy un chico apasionado por la música, actualmente soy el baterista de una banda de rock y me gusta analizar los instrumentos y sonidos que se encuentran al fondo de las canciones. 
-Así como me gusta la música tambien disfruto salir con mis amigos a lugares para bailar, disfruto mucho cuando se puede bailar y convivir con las personas en este tipo de reuniones.
-Tambien me gusta hacer deporte, fui boxeador amateur durante 5 años y actualmente solo me gusta hacer ejercico de manera rutinaria para tener un buen estado de salud y mantenerme en forma.
-Me considero una persona con habilidades para cocinar y dusfruto mucho ver que la gente que prueba mis platillos siempre tienen buenos comentarios sobre ellos mi platillos especial son las enchiladas suizas.
+- Soy un chico apasionado por la música, actualmente soy el baterista de una banda de rock y me gusta analizar los instrumentos y sonidos que se encuentran al fondo de las canciones. 
+- Así como me gusta la música tambien disfruto salir con mis amigos a lugares para bailar, disfruto mucho cuando se puede bailar y convivir con las personas en este tipo de reuniones.
+- Tambien me gusta hacer deporte, fui boxeador amateur durante 5 años y actualmente solo me gusta hacer ejercico de manera rutinaria para tener un buen estado de salud y mantenerme en forma.
+- Me considero una persona con habilidades para cocinar y dusfruto mucho ver que la gente que prueba mis platillos siempre tienen buenos comentarios sobre ellos mi platillos especial son las enchiladas suizas.
 
 ### ¿Por Qué Trabajar Conmigo?
 
