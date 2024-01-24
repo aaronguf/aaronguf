@@ -1,6 +1,4 @@
-# Hola, soy Aarón Guzmán 👋
-
-## Full Stack Developer
+![Banner](https://github.com/aaronguf/aaronguf/commit/ee1e50c6fe9f5028c37bed5f7fa1f06ab863e926)
 
 Bienvenido a mi perfil de GitHub.
 Soy un apasionado desarrollador Full Stack con experiencia en la creación de aplicaciones web dinámicas y responsivas. Me especializo en **JavaScript, HTML, CSS, Python (FLASK), MySQL**, además de trabajar con librerías y frameworks como **Bootstrap y React**.
