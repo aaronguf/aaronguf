@@ -15,8 +15,8 @@ Soy un apasionado desarrollador Full Stack con experiencia en la creación de ap
 
 Aquí puedes encontrar algunos de mis proyectos que me gustaría compartir contigo:
 
-- **PhysioCareSync 1:** Esta es ua aplicación dedicada a conectar pacientes con especialistas en el área de la salud [Conoce mas](https://github.com/aaronguf/PhysioCareSync)
-- **Star Wars Blog 2:** Espe proyecto consume una API con información solbre personages, vehículos y planetas relacionados con la famosa saga. [Conoce mas](https://github.com/aaronguf/Aaron-Guzman-Star-Wars-Blog)
+- **PhysioCareSync 1:** Esta es una aplicación dedicada a conectar pacientes con especialistas en el área de la salud [Conoce más](https://github.com/aaronguf/PhysioCareSync)
+- **Star Wars Blog 2:** Espe proyecto consume una API con información sobre personajes, vehículos y planetas relacionados con la famosa saga. [Conoce más](https://github.com/aaronguf/Aaron-Guzman-Star-Wars-Blog)
 
 > No dudes en explorar mi repositorio para ver más de mi trabajo.
 
@@ -25,7 +25,7 @@ Aquí puedes encontrar algunos de mis proyectos que me gustaría compartir conti
 Si estás interesado en hablar sobre tecnología, proyectos o oportunidades laborales, no dudes en contactarme:
 
 - **Correo Electrónico:** aaronguf.93@hotmail.com
-- **LinkedIn:** [Perfil] (https://www.linkedin.com/in/aaronguf/)
+- **LinkedIn:** [aaronguf](https://www.linkedin.com/in/aaronguf/)
 
 ---
 
@@ -34,7 +34,7 @@ Si estás interesado en hablar sobre tecnología, proyectos o oportunidades labo
 - Soy un chico apasionado por la música, actualmente soy el baterista de una banda de rock y me gusta analizar los instrumentos y sonidos que se encuentran al fondo de las canciones. 
 - Así como me gusta la música tambien disfruto salir con mis amigos a lugares para bailar, disfruto mucho cuando se puede bailar y convivir con las personas en este tipo de reuniones.
 - Tambien me gusta hacer deporte, fui boxeador amateur durante 5 años y actualmente solo me gusta hacer ejercico de manera rutinaria para tener un buen estado de salud y mantenerme en forma.
-- Me considero una persona con habilidades para cocinar y dusfruto mucho ver que la gente que prueba mis platillos siempre tienen buenos comentarios sobre ellos mi platillos especial son las enchiladas suizas.
+- Me considero una persona con habilidades para cocinar y disfruto mucho ver que la gente que prueba mis platillos siempre tienen buenos comentarios sobre ellos. Mi platillo especial son las enchiladas suizas.
 
 ### ¿Por Qué Trabajar Conmigo?
 
