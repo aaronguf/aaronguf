@@ -17,8 +17,8 @@ Soy un apasionado desarrollador Full Stack con experiencia en la creación de ap
 
 Aquí puedes encontrar algunos de mis proyectos que me gustaría compartir contigo:
 
-- **PhysioCareSync 1:** Esta es ua aplicación dedicada a conectar pacientes con especialistas en el área de la salud [Ver Más](https://github.com/aaronguf/PhysioCareSync)
-- **Star Wars Blog 2:** Espe proyecto consume una API con información solbre personages, vehículos y planetas relacionados con la famosa saga. [Ver Más](https://github.com/aaronguf/Aaron-Guzman-Star-Wars-Blog)
+- **PhysioCareSync 1:** Esta es ua aplicación dedicada a conectar pacientes con especialistas en el área de la salud [Conoce mas](https://github.com/aaronguf/PhysioCareSync)
+- **Star Wars Blog 2:** Espe proyecto consume una API con información solbre personages, vehículos y planetas relacionados con la famosa saga. [Conoce mas](https://github.com/aaronguf/Aaron-Guzman-Star-Wars-Blog)
 
 > No dudes en explorar mi repositorio para ver más de mi trabajo.
 
