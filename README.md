@@ -1,52 +1,46 @@
+
+
+
 ![Banner](https://github.com/aaronguf/aaronguf/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.png)
 
 Bienvenido a mi perfil de GitHub.
 Soy un apasionado desarrollador Full Stack con experiencia en la creación de aplicaciones web dinámicas y responsivas. Me especializo en **JavaScript, HTML, CSS, Python (FLASK), MySQL**, además de trabajar con librerías y frameworks como **Bootstrap y React**.
 
-### 🛠 Habilidades Técnicas
+### 🛠 Habilidades.
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
 
 - **Lenguajes de Programación:** JavaScript, Python
 - **Frontend:** HTML5, CSS3, React, Bootstrap
 - **Backend:** FLASK
 - **Bases de Datos:** MySQL
 - **Herramientas y Otros:** Git, GitHub, Responsive Web Design
+- **Pensamiento Analítico:** Capaz de resolver problemas complejos y desarrollar soluciones eficientes.
+- **Trabajo en Equipo:** Experiencia trabajando en equipos de desarrollo, fomentando un ambiente colaborativo y de aprendizaje continuo.
+- **Adaptabilidad:** Rápido para adaptarme a nuevas tecnologías y enfrentar desafíos en proyectos dinámicos.
 
 ### 🚀 Proyectos Destacados
 
 Aquí puedes encontrar algunos de mis proyectos que me gustaría compartir contigo:
 
-- **PhysioCareSync:** Esta es ua aplicación dedicada a conectar pacientes con especialistas en el área de la salud [Conoce mas](https://github.com/aaronguf/PhysioCareSync)
+- **PhysioCareSync:** Esta es una aplicación dedicada a conectar pacientes con especialistas en el área de la salud [Conoce mas](https://github.com/aaronguf/PhysioCareSync)
 - **Star Wars Blog:** Este proyecto consume una API con información sobre personajes, vehículos y planetas relacionados con la famosa saga. [Conoce mas](https://github.com/aaronguf/Aaron-Guzman-Star-Wars-Blog)
 
 > No dudes en explorar mi repositorio para ver más de mi trabajo.
 
 ### 💬 Contáctame
 
-Si estás interesado en hablar sobre tecnología, proyectos o oportunidades laborales, no dudes en contactarme:
-
-- **Correo Electrónico:** aaronguf.93@hotmail.com
-- **LinkedIn:** [Perfil] (https://www.linkedin.com/in/aaronguf/)
+<p align="left">
+<a href="https://linkedin.com/in/aaronguf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaronguf" height="30" width="40" /></a>
+</p>
 
 ---
-
-### Un Poco Más Sobre Mí
-
-- Soy un chico apasionado por la música, actualmente soy el baterista de una banda de rock y me gusta analizar los instrumentos y sonidos que se encuentran al fondo de las canciones. 
-- Así como me gusta la música tambien disfruto salir con mis amigos a lugares para bailar, disfruto mucho cuando se puede bailar y convivir con las personas en este tipo de reuniones.
-- Tambien me gusta hacer deporte, fui boxeador amateur durante 5 años y actualmente solo me gusta hacer ejercico de manera rutinaria para tener un buen estado de salud y mantenerme en forma.
-- Me considero una persona con habilidades para cocinar y dusfruto mucho ver que la gente que prueba mis platillos siempre tienen buenos comentarios sobre ellos mi platillos especial son las enchiladas suizas.
-
-### ¿Por Qué Trabajar Conmigo?
-
-- **Pensamiento Analítico:** Capaz de resolver problemas complejos y desarrollar soluciones eficientes.
-- **Trabajo en Equipo:** Experiencia trabajando en equipos de desarrollo, fomentando un ambiente colaborativo y de aprendizaje continuo.
-- **Adaptabilidad:** Rápido para adaptarme a nuevas tecnologías y enfrentar desafíos en proyectos dinámicos.
 
 ### Educación y Certificaciones
 
 -**Full Stack Developer:** 4Geeks Academy
 
--**Ingeniería mecánica electrica:** Universidad de Guadalajara
+-**Ingeniería mecánica eléctrica:** Universidad de Guadalajara
 
 ---
 
