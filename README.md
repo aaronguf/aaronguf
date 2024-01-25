@@ -39,6 +39,3 @@ Here you can find some of my projects that I'd like to share with you:
 - **Electrical Mechanical Engineering:** University of Guadalajara
 
 Thank you for visiting my profile. I look forward to hearing from you soon!
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronguf&show_icons=true&locale=en&layout=compact" alt="aaronguf" /></p>
-
